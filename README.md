@@ -4,7 +4,7 @@
 | ![Top](./assets/top.jpg)  | ![Inside](./assets/inside.jpg)  | ![Bottom](./assets/bottom.jpg)  |
 
 
-| ![IR thermometer](./assets/Discord-Medium.gif) | ![BLE reading](./assets/BLE-Read.gif) |
+| ![IR thermometer](./assets/Display.gif) | ![BLE reading](./assets/BLE-Read-HTM.gif) |
 | :-: | :-: |
 
 This example shows:
